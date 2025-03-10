@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection
-
+# Dataset link:- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ## Overview
 This project implements a **Credit Card Fraud Detection** system using **Logistic Regression**. The dataset used contains transactions labeled as fraudulent or legitimate, and the model is trained to classify them accurately.
 
